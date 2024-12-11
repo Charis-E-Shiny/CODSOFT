@@ -1,6 +1,6 @@
 # CODSOFT
-Internship Work @ CODSOFT
-Projects Include:- 
-🧮Calculator
-🔐Password Generator
-✂️Rock-Paper-Scissor Game
+Internship Work @ CODSOFT<br>
+Projects Include:-<br>
+  🧮 Calculator<br>
+  🔐 Password Generator<br>
+  ✂️ Rock-Paper-Scissor Game<br>
